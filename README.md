@@ -11,7 +11,7 @@ The board will mainly be controlled over a wifi enabled websever, but it will al
 
 #Pinout:
 
-PICTURE
+![Alt text](https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/ESP32_Pinout.pdf??? "Pinout")
 
 
 
@@ -19,7 +19,7 @@ PICTURE
 
 #Schematics Overview
 
-PICTURE
+![Alt text](https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/Schematic%20overview.pdf??? "Pinout")
 
 
 #Schedule
