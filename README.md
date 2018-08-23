@@ -1,12 +1,12 @@
 ## ESP32 PH/EC SHIELD
 
-This Project is going to be the a SHIELD for a ESP32 Devkit Board. 
+This Project is going to be a SHIELD for a ESP32 Devkit Board. 
 
-The Board will find it's pospose in the Aquaristics, Grow and Aquaponics area. It will be able to messure water quality of sweetwater systems and contoll pumps, leds and whatsoever over a webserver.
-Also there will be an integration for IR and RF transmitter/receiver to contoll externel diveces such as 433Mhz power sockets and IR controlled LED lights.
+The Board will find its purpose in the Aquaristics, Grow and Aquaponics area. It will be able to measure water quality of sweetwater systems and control pumps, leds and whatsoever over a web server.
+Also there will be an integration for IR and RF transmitter/receiver to control external devices such as 433Mhz power sockets and IR controlled LED lights.
 
 
-The board will mainly be controlled over a wifi enabled websever, but it will also have a Text Display with a rotary encoder for basic controlls.
+The board will mainly be controlled over a wifi enabled web server, but it will also have a Text Display with a rotary encoder for basic controls.
 
 
 ## Pinout:
@@ -38,17 +38,15 @@ To Do:
 				
 		
 ## Acknowledgments for those who went befor
-
 @Bitknitting with https://github.com/BitKnitting/LadyBugShield
 @Sparky's Widgets with https://github.com/SparkysWidgets
 
 
 ## License
-
 This project is licensed under GNU GPLv3
 
 
-##Links
+## Links
 https://github.com/espressif/arduino-esp32
 https://github.com/MHEtLive/arduino-esp32
 
