@@ -18,21 +18,21 @@ https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/Sc
 ## Schedule
 
 Done:
-*PH
-*EC
+* PH
+* EC
 				
 To Do:
-*0-10V
-*IR receiver
-*IR transmitter
-*RF receiver
-*RF transmitter
-*Power 3V, 5V, 12V
-*MOSFET 8 Channel
-*Optocoppler Input 8 Channel
-*Display 20x4
-*Rotary Encoder
-*SC Card
+* 0-10V
+* IR receiver
+* IR transmitter
+* RF receiver
+* RF transmitter
+* Power 3V, 5V, 12V
+* MOSFET 8 Channel
+* Optocoppler Input 8 Channel
+* Display 20x4
+* Rotary Encoder
+* SC Card
 				
 		
 ## Acknowledgments for those who went befor
