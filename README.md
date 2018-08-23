@@ -10,10 +10,10 @@ The board will mainly be controlled over a wifi enabled websever, but it will al
 
 
 ## Pinout:
-[embed]https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/ESP32_Pinout.pdf[/embed]
+[embed] https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/ESP32_Pinout.pdf [/embed]
 
 ## Schematics Overview
-[embed]https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/Schematic%20overview.pdf[/embed]
+[embed] https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/Schematic%20overview.pdf [/embed]
 
 ## Schedule
 
