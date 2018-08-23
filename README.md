@@ -1,4 +1,4 @@
-# ESP32 PH/EC SHIELD
+## ESP32 PH/EC SHIELD
 
 This Project is going to be the a SHIELD for a ESP32 Devkit Board. 
 
@@ -9,26 +9,18 @@ Also there will be an integration for IR and RF transmitter/receiver to contoll 
 The board will mainly be controlled over a wifi enabled websever, but it will also have a Text Display with a rotary encoder for basic controlls.
 
 
-#Pinout:
+## Pinout:
+[embed]https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/ESP32_Pinout.pdf[/embed]
 
-![Alt text](https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/ESP32_Pinout.pdf??? "Pinout")
+## Schematics Overview
+[embed]https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/Schematic%20overview.pdf[/embed]
 
-
-
-
-
-#Schematics Overview
-
-![Alt text](https://github.com/AFa8sFExGa98t2/ESP32-PH-EC-SHIELD/blob/master/ESP32-Pinout/Schematic%20overview.pdf??? "Pinout")
-
-
-#Schedule
+## Schedule
 
 Done:
 -Schematics:
 				PH
 				EC
-
 				
 To Do:
 -Schematics:
@@ -44,12 +36,8 @@ To Do:
 				Rotary Encoder
 				SC Card
 				
-			
-			
-
-
-
-#Acknowledgments for those who went befor
+		
+## Acknowledgments for those who went befor
 
 @Bitknitting with https://github.com/BitKnitting/LadyBugShield
 @Sparky's Widgets with https://github.com/SparkysWidgets
