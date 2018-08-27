@@ -41,7 +41,7 @@ To Do:
 
 
 ## License
-This project is licensed under GNU GPLv3
+This project is licensed Attribution-NonCommercial 3.0 Germany (CC BY-NC 3.0 DE) 
 
 
 ## Links
